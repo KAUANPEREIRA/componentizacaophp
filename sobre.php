@@ -10,12 +10,10 @@
   <?php include('inc/header.php')?>
     <main>
         <section>
-            <h2>Página Inicial</h2>
-            <p>Bem-vindo à página inicial do nosso site. Aqui você encontrará as últimas novidades e informações</p>
+            <h2>Página Sobre</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia harum architecto quasi dicta voluptas repellat impedit quod dolore, praesentium optio illo magnam provident. Deleniti laudantium maxime deserunt, ut recusandae dolorem!</p>
         </section>
     </main>
-
-    <?php include('inc/footer.php')?>
-   
+   <?php include('inc/footer.php')?>
 </body>
 </html>
